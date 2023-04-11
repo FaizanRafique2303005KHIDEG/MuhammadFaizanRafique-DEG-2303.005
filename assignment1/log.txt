@@ -1,0 +1,42 @@
+commit 2fb67346997b1046e610d882c09849e3bcf33027
+Merge: 78f2953 7ea6fba
+Author: FaizanRafique2303005KHIDEG <124856134+FaizanRafique2303005KHIDEG@users.noreply.github.com>
+Date:   Wed Apr 5 15:06:43 2023 +0500
+
+    from master
+
+commit 7ea6fba1d1ef0c470517429417d2e1d6f41709de
+Author: FaizanRafique2303005KHIDEG <124856134+FaizanRafique2303005KHIDEG@users.noreply.github.com>
+Date:   Wed Apr 5 15:05:12 2023 +0500
+
+    from even
+
+diff --git a/numbers.txt b/numbers.txt
+index e69de29..f25fbe3 100644
+--- a/numbers.txt
++++ b/numbers.txt
+@@ -0,0 +1 @@
++2,4,6,8
+
+commit 78f2953601d7ba1403b0fe59ef3fe77cc3939491
+Author: FaizanRafique2303005KHIDEG <124856134+FaizanRafique2303005KHIDEG@users.noreply.github.com>
+Date:   Wed Apr 5 15:02:27 2023 +0500
+
+    from odd
+
+diff --git a/numbers.txt b/numbers.txt
+index e69de29..742b132 100644
+--- a/numbers.txt
++++ b/numbers.txt
+@@ -0,0 +1 @@
++1,3,5,7,9
+
+commit b905c2f457cb91fea564d69a9f6ec962454aed10
+Author: FaizanRafique2303005KHIDEG <124856134+FaizanRafique2303005KHIDEG@users.noreply.github.com>
+Date:   Wed Apr 5 14:59:27 2023 +0500
+
+    from master
+
+diff --git a/numbers.txt b/numbers.txt
+new file mode 100644
+index 0000000..e69de29
