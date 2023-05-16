@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 5000-5005:5000
+    volumes:
+      - save_data:/app/save_data
+    deploy:
+      replicas: 5
+volumes : 
+  save_data :
